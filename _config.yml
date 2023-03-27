@@ -635,7 +635,7 @@ livere_uid: # <your_uid>
 gitalk:
   enable: true
   github_id: kirikayakazuto
-  repo: blob_gitalk
+  repo: blog_gitalk
   client_id: 48e88c363293159954fd
   client_secret: f8ae933fb82fe8f62cc814825000b3fcf24b1795
   admin_user: kirikayakazuto

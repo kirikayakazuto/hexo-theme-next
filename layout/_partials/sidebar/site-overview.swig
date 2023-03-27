@@ -76,6 +76,9 @@
 
 {%- if theme.social %}
   <div class="links-of-author motion-element">
+      <div class="social-item">
+        <span >QQ群: 552424835</span>
+      </div>
     {%- for name, link in theme.social %}
       <span class="links-of-author-item">
       {%- set sidebarURL = link.split('||')[0] | trim %}

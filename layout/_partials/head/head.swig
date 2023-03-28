@@ -1,6 +1,7 @@
 <meta charset="UTF-8">
 <meta name="baidu-site-verification" content="codeva-O4yN6qU9x2" />
 <meta name="msvalidate.01" content="1768ABDFD0C3697F32C548E525F895F1" />
+<meta name="google-site-verification" content="YDw6lfI11_AmobC2pm-WGXU-Nj5ISYl0pvFzHDwVveQ" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
 <meta name="theme-color" content="{{ theme.android_chrome_color }}">
 <meta name="generator" content="Hexo {{ hexo_version }}">
